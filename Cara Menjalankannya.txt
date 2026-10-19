@@ -1,0 +1,8 @@
+Di folder backend/, jalankan:
+
+uvicorn main:app --reload --port 8000
+
+Jalankan Frontend:
+
+Di folder frontend/, jalankan 
+npm run dev

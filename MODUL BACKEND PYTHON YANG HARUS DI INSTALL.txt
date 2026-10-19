@@ -1,0 +1,1 @@
+python -m pip install fastapi uvicorn google-genai google-api-python-client google-auth google-auth-oauthlib google-auth-httplib2 youtube-transcript-api openai-whisper requests python-dotenv yt-dlp

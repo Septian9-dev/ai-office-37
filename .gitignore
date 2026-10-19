@@ -1,0 +1,14 @@
+# Backend ignore
+backend/.env
+backend/client_secret.json
+backend/token.json
+backend/processed_videos.json
+backend/outputs/
+
+# Frontend ignore
+frontend/node_modules/
+frontend/.next/
+
+# Binary ignore
+*.exe
+ffmpeg/

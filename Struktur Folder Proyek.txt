@@ -1,0 +1,14 @@
+ai-office-37/
+├── backend/
+│   ├── main.py
+│   ├── .env
+│   └── requirements.txt
+└── frontend/
+    ├── public/
+    │   └── models/          <-- Simpan file .glb Mixamo / RPM di sini
+    └── src/
+        ├── components/
+        │   ├── OfficeCanvas.tsx
+        │   └── Agent3D.tsx
+        └── data/
+            └── agents.ts    <-- Data 37 Agent
